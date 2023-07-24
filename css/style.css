@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 5px solid;
+    border-radius: 10px;
+    background-color: beige;
+}
+.nav-links{
+    display: flex;
+}
+.link{
+    text-decoration: none;
+    color: #000;
+    margin: 15px;
+    font-size: larger;
+    font-family: Merriweather Sans;
+}
+#logo{
+    margin-right: 15px;
+
+}
+.title-line{
+    width: 200px;
+    height: 5px;
+    color: #000;
+}
+.title{
+    text-align: center;
+    font-size: xxx-large;
+    font-family: Merriweather Sans;
+}
+.card{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid;
+}
