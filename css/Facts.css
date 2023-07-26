@@ -1,3 +1,5 @@
+/* if you want it more detailed check the home.css code or style .css */
+/* this where we edited card 1 which was the card holding the biggest card */
 .card1 {
     width: 254px;
     height: 254px;
@@ -41,6 +43,7 @@
     justify-content: center;
     align-items: center;
 }
+/* this where we edited card 2 which was the card holding the smalllest card */
 .card2 {
     width: 254px;
     height: 254px;
@@ -80,6 +83,7 @@
     transform: translateY(-30px);
    }
 .card3 {
+    /* this where we edited card 3 which was the card holding the most expnsive card */
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
@@ -117,6 +121,7 @@
    .card3:hover div {
     transform: translateY(-30px);
    }
+       /* this where we edited card 4 which was the card holding the a month to solve card */
 .card4 {
     width: 254px;
     height: 254px;
@@ -155,6 +160,7 @@
    .card4:hover div {
     transform: translateY(-30px);
    }
+          /* this where we edited card 4 which was the card holding the fastest card */
 .card5 {
     width: 254px;
     height: 254px;
@@ -193,6 +199,8 @@
    .card5:hover div {
     transform: translateY(-30px);
    }
+          /* this where we edited card 4 which was the card holding the why is it named rubiks card */
+
 .card6 {
     width: 254px;
     height: 254px;
@@ -231,6 +239,7 @@
    .card6:hover div {
     transform: translateY(-30px);
    }
+          /* this where we edited card 7 which was the card holding the 43 252 003 274 489 856 000 card */
 .card7 {
     width: 254px;
     height: 254px;
@@ -269,6 +278,7 @@
    .card7:hover div {
     transform: translateY(-30px);
    }
+ /* this where we edited card 8 which was the card holding the 180000 vedios card */
 .card8 {
     width: 254px;
     height: 254px;
@@ -307,6 +317,7 @@
    .card8:hover div {
     transform: translateY(-30px);
    }
+ /* this where we edited card 9 which was the card holding the how is it solved card */
 .card9 {
     width: 254px;
     height: 254px;

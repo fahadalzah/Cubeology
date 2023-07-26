@@ -1,30 +1,6 @@
-.H-card{
-    margin-top: 200px;
-    border: 5px solid black;
-    border-radius: 5px;
-    height:400px;
-    width:500px;
-    text-align: center;
-    border-radius: 20px;
-   
-}
-.H-row{
-    border: 2px none black;
-    height: 30vh;
-    display: flex;
-    flex-direction: row;
-    gap: 37px;
-    justify-content: center;
-    align-items:center;
-}
-p{
-    font-family: Merriweather Sans;
-}
-footer{
-    border: 1px solid #383838;
-   background-color: #383838;
-   text-align: center;
-}
+/* if you want it more detailed check the home.css code or style .css */
+/* this where we edited all cards which had no animation nor pictures nor*/
+
 .card15 {
     width:  300px;
     height:  300px;
@@ -37,11 +13,13 @@ footer{
     position: relative;
     transition: all .4s;
    }
+   /* this is the container for all cards */
 .rubics-cube{
     display: flex;
     justify-content: center;
     align-items: center;
 }
+/* this where we edited card 2 which was holding/containing the prototype history*/
 .card2 {
     width: 300px;
     height: 300px;
@@ -83,6 +61,7 @@ footer{
    .card2:hover div {
     transform: translateY(+310px);
    }
+/* this where we edited card 4 which was holding/containing the erno rubiks/inventor history*/
 
 .card4 {
     width:  300px;
@@ -125,7 +104,7 @@ footer{
    .card4:hover div {
     transform: translateY(-310px);
    }
-
+/* this where we edited card 6 which was holding/containing the spin master compony history*/
 .card6 {
     width:  300px;
     height:  300px;
@@ -167,7 +146,7 @@ footer{
    .card6:hover div {
     transform: translateY(-310px);
    }
-
+/* this where we edited card 8 which was holding/containing the The newest rubiks cube*/
 .card8 {
     width:  300px;
     height:  300px;
@@ -210,136 +189,3 @@ footer{
    .card8:hover div {
     transform: translateY(-310px);
    }
-   footer{
-    height: 400px;
-    margin-top: 50px;
-   }
-   .id-card{
-    border: 2px solid black;
-    height:200px;
-    width: 200px;
-   }
-   .card-client {
-    background: #555;
-    width: 13rem;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-left: 20px;
-    padding-right: 20px;
-    border: 4px solid #fff;
-    box-shadow: 0 6px 10px #212121;
-    border-radius: 10px;
-    text-align: center;
-    color: #fff;
-    font-family: "Poppins", sans-serif;
-    transition: all 0.3s ease;
-  }
-  
-  .card-client:hover {
-    transform: translateY(-10px);
-  }
-  
-  .user-picture {
-    overflow: hidden;
-    object-fit: cover;
-    width: 5rem;
-    height: 5rem;
-    border: 4px solid #fff;
-    border-radius: 999px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-  }
-  
-  .user-picture svg {
-    width: 2.5rem;
-    fill: currentColor;
-  }
-  
-  .name-client {
-    margin: 0;
-    margin-top: 20px;
-    font-weight: 600;
-    font-size: 18px;
-  }
-  
-  .name-client span {
-    display: block;
-    font-weight: 200;
-    font-size: 16px;
-  }
-  
-  .social-media:before {
-    content: " ";
-    display: block;
-    width: 100%;
-    height: 2px;
-    margin: 20px 0;
-    background: #fff;
-  }
-  
-  .social-media a {
-    position: relative;
-    margin-right: 15px;
-    text-decoration: none;
-    color: inherit;
-  }
-  
-  .social-media a:last-child {
-    margin-right: 0;
-  }
-  
-  .social-media a svg {
-    width: 1.1rem;
-    fill: currentColor;
-  }
-  
-  /*-- Tooltip Social Media --*/
-  .tooltip-social {
-    background: #262626;
-    display: block;
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    padding: 0.5rem 0.4rem;
-    border-radius: 5px;
-    font-size: 0.8rem;
-    font-weight: 600;
-    opacity: 0;
-    pointer-events: none;
-    transform: translate(-50%, -90%);
-    transition: all 0.2s ease;
-    z-index: 1;
-  }
-  
-  .tooltip-social:after {
-    content: " ";
-    position: absolute;
-    bottom: 1px;
-    left: 50%;
-    border: solid;
-    border-width: 10px 10px 0 10px;
-    border-color: transparent;
-    transform: translate(-50%, 100%);
-  }
-  
-  .social-media a .tooltip-social:after {
-    border-top-color: #262626;
-  }
-  
-  .social-media a:hover .tooltip-social {
-    opacity: 1;
-    transform: translate(-50%, -130%);
-  }
-  .id-flax{
-    border: 2px none black;
-    height: 60vh;
-    display: flex;
-    gap: 37px;
-    justify-content: center;
-    align-items:center;
-
-
-  }
-   

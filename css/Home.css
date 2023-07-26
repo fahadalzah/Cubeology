@@ -1,8 +1,10 @@
+/* This is the home page css wellcome */
+/* this where we edited card one which was the card holding the history page card */
 .card1 {
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #FFD966;
+    background: #F6FFA6;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -10,7 +12,7 @@
     position: relative;
     transition: all .4s;
    }
-   
+   /* this is the before code/ the code containg the text inside  */
    .card1::before {
     content: 'History page';
     letter-spacing: 0.2em;
@@ -21,7 +23,7 @@
     font-size: 0.8em;
     font-weight: 700;
    }
-   
+/* this is where we edited the z-index and box shadow  and other intresting things  */
    .card1 div {
     width: 100%;
     height: 100%;
@@ -30,17 +32,18 @@
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: #FFD966;
+    background-color: #F6FFA6;
    }
-   
+/* this is the animation edit / the hover edit    */
    .card1:hover div {
     transform: translateY(-30px);
    }
+/* this where we edited card All the cards without animation or design */
 .card2 {
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #FFD966;
+    background: #F6FFA6;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -48,11 +51,12 @@
     position: relative;
     transition: all .4s;
 }
+/* this where we edited card 3 which was the card holding the facts page card */
 .card3 {
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #FFD966;
+    background: #F6FFA6;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -60,7 +64,7 @@
     position: relative;
     transition: all .4s;
    }
-   
+      /* this is the before code/ the code containg the text inside  */
    .card3::before {
     content: 'Facts page';
     letter-spacing: 0.2em;
@@ -71,7 +75,7 @@
     font-size: 0.8em;
     font-weight: 700;
    }
-   
+   /* this is where we edited the z-index and box shadow  and other intresting things  */
    .card3 div {
     width: 100%;
     height: 100%;
@@ -80,27 +84,18 @@
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: #FFD966;
-   }   
+    background-color: #F6FFA6;
+   }  
+    /* this is the animation edit / the hover edit    */
    .card3:hover div {
     transform: translateY(-30px);
-   } 
-.card4 {
-    width: 254px;
-    height: 254px;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #ED2B2A;
-    display: flex;
-    margin: 5px;
-    border-radius: 20px;
-    justify-content: center;
-    position: relative;
-}   
+   }  
+/* this where we edited card five which was the card holding the Types page card */
 .card5 {
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #FFD966;
+    background: #F6FFA6;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -108,7 +103,7 @@
     position: relative;
     transition: all .4s;
    }
-   
+      /* this is the before code/ the code containg the text inside  */
    .card5::before {
     content: 'Types page';
     letter-spacing: 0.2em;
@@ -119,7 +114,7 @@
     font-size: 0.8em;
     font-weight: 700;
    }
-   
+      /* this is where we edited the z-index and box shadow  and other intresting things  */
    .card5 div {
     width: 100%;
     height: 100%;
@@ -128,52 +123,9 @@
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: #FFD966;
-   }   
+    background-color: #F6FFA6;
+   } 
+   /* this is the animation edit / the hover edit    */
    .card5:hover div {
     transform: translateY(-30px);
    } 
-.card6 {
-    width: 254px;
-    height: 254px;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: whitesmoke;
-    display: flex;
-    margin: 5px;
-    border-radius: 20px;
-    justify-content: center;
-    position: relative;
-   }
-.card7 {
-    width: 254px;
-    height: 254px;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: green;
-    display: flex;
-    margin: 5px;
-    border-radius: 20px;
-    justify-content: center;
-    position: relative;
-}
-.card8 {
-    width: 254px;
-    height: 254px;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #FFD966;
-    display: flex;
-    margin: 5px;
-    border-radius: 20px;
-    justify-content: center;
-    position: relative;
-}
-.card9 {
-    width: 254px;
-    height: 254px;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #9BE8D8;
-    display: flex;
-    margin: 5px;
-    border-radius: 20px;
-    justify-content: center;
-    position: relative;
-} 
