@@ -2,7 +2,7 @@
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: cadetblue;
+    background: #FFD966;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -30,7 +30,7 @@
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: cadetblue;
+    background-color: #FFD966;
    }
    
    .card1:hover div {
@@ -40,7 +40,7 @@
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #FEFF86;
+    background: #FFD966;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -52,7 +52,7 @@
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: cadetblue;
+    background: #FFD966;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -79,9 +79,9 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
     cursor: pointer;
     z-index: 10;
-    background-color: cadetblue;
-   }
-   
+    transition: all .4s;
+    background-color: #FFD966;
+   }   
    .card3:hover div {
     transform: translateY(-30px);
    } 
@@ -100,7 +100,7 @@
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: cadetblue;
+    background: #FFD966;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -128,7 +128,7 @@
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: cadetblue;
+    background-color: #FFD966;
    }   
    .card5:hover div {
     transform: translateY(-30px);

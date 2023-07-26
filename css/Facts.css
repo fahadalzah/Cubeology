@@ -1,0 +1,347 @@
+.card1 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card1::before {
+    content: 'Biggest Cube In The World';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card1 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }
+   
+   .card1:hover div {
+    transform: translateY(-30px);
+   }
+.rubics-cube{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card2 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card2::before {
+    content: 'Smallest Cube In The World';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card2 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }
+   
+   .card2:hover div {
+    transform: translateY(-30px);
+   }
+.card3 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card3::before {
+    content: 'Most Expnsive Cube';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card3 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }
+   
+   .card3:hover div {
+    transform: translateY(-30px);
+   }
+.card4 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card4::before {
+    content: 'A Month To Solve It!!!';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card4 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }
+   
+   .card4:hover div {
+    transform: translateY(-30px);
+   }
+.card5 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card5::before {
+    content: 'Fastest Solve';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card5 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }
+   
+   .card5:hover div {
+    transform: translateY(-30px);
+   }
+.card6 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card6::before {
+    content: 'Why Is It Named Rubiks?';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card6 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }
+   
+   .card6:hover div {
+    transform: translateY(-30px);
+   }
+.card7 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card7::before {
+    content: '43 252 003 274 489 856 000';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card7 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }
+   
+   .card7:hover div {
+    transform: translateY(-30px);
+   }
+.card8 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card8::before {
+    content: 'More Than 180,000 Vedio!!!';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card8 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }
+   
+   .card8:hover div {
+    transform: translateY(-30px);
+   }
+.card9 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card9::before {
+    content: 'How Is It Solved?';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card9 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }
+   
+   .card9:hover div {
+    transform: translateY(-30px);
+   }
