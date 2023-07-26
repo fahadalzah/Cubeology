@@ -46,7 +46,7 @@ footer{
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: rgb(193, 1, 1) ;
+    background: #ED2B2A;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -74,7 +74,7 @@ footer{
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: darkred;
+    background-color: #ED2B2A;
    }
    
    .card2:hover div {
@@ -85,7 +85,7 @@ footer{
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: rgb(193, 1, 1) ;
+    background: #ED2B2A;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -113,7 +113,7 @@ footer{
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: darkred;
+    background-color: #ED2B2A;
    }
    
    .card4:hover div {
@@ -124,7 +124,7 @@ footer{
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: rgb(193, 1, 1) ;
+    background: #ED2B2A;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -152,7 +152,7 @@ footer{
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: darkred;
+    background-color: #ED2B2A;
    }
    
    .card6:hover div {
@@ -163,7 +163,7 @@ footer{
     width: 254px;
     height: 254px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: rgb(193, 1, 1) ;
+    background: #ED2B2A;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -191,7 +191,7 @@ footer{
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: darkred;
+    background-color: #ED2B2A;
    }
    
    .card8:hover div {

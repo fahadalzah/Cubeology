@@ -207,7 +207,7 @@
    }
    
    .card6::before {
-    content: 'MageMix';
+    content: 'MegaMix';
     letter-spacing: 0.2em;
     position: absolute;
     font-family: Merriweather Sans;

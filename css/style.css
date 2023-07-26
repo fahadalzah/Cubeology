@@ -8,7 +8,8 @@ nav{
     justify-content: space-between;
     border: 5px solid;
     border-radius: 10px;
-    background-color: beige;
+    background: rgb(255,224,195);
+    background: linear-gradient(90deg, rgba(255,224,195,1) 0%, rgba(255,224,195,1) 30%, rgba(65,209,255,1) 100%);
 }
 .nav-links{
     display: flex;
@@ -40,53 +41,3 @@ nav{
     align-items: center;
 
 }
-.card10 {
-    width: 254px;
-    height: 254px;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: cadetblue;
-    display: flex;
-    margin: 5px;
-    border-radius: 20px;
-    justify-content: center;
-    position: relative;
-    transition: all .4s;
-   }
-.card11 {
-    width: 254px;
-    height: 254px;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: cadetblue;
-    display: flex;
-    margin: 5px;
-    border-radius: 20px;
-    justify-content: center;
-    position: relative;
-    transition: all .4s;
-   }
-   
-   .card11::before {
-    content: 'In the mid-1970s, Ernő Rubik worked at the Department of Interior Design at the Academy of Applied Arts and Crafts in Budapest.';
-    letter-spacing: 0.2em;
-    position: absolute;
-    font-family: Merriweather Sans;
-    bottom: 8px;
-    color: rgb(51, 51, 51);
-    font-size: 0.8em;
-    font-weight: 700;
-   }
-   
-   .card11 div {
-    width: 100%;
-    height: 100%;
-    border-radius: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
-    cursor: pointer;
-    z-index: 10;
-    transition: all .4s;
-    background-color: cadetblue;
-   }
-   
-   .card11:hover div {
-    transform: translateY(-208px);
-   }

@@ -1,0 +1,179 @@
+.card1 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card1::before {
+    content: 'History page';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card1 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }
+   
+   .card1:hover div {
+    transform: translateY(-30px);
+   }
+.card2 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: #FEFF86;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+}
+.card3 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card3::before {
+    content: 'Facts page';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card3 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    background-color: cadetblue;
+   }
+   
+   .card3:hover div {
+    transform: translateY(-30px);
+   } 
+.card4 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: #ED2B2A;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+}   
+.card5 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: cadetblue;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+    transition: all .4s;
+   }
+   
+   .card5::before {
+    content: 'Types page';
+    letter-spacing: 0.2em;
+    position: absolute;
+    font-family: Merriweather Sans;
+    bottom: 8px;
+    color: rgb(51, 51, 51);
+    font-size: 0.8em;
+    font-weight: 700;
+   }
+   
+   .card5 div {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.212);
+    cursor: pointer;
+    z-index: 10;
+    transition: all .4s;
+    background-color: cadetblue;
+   }   
+   .card5:hover div {
+    transform: translateY(-30px);
+   } 
+.card6 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: whitesmoke;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+   }
+.card7 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: green;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+}
+.card8 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: #FFD966;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+}
+.card9 {
+    width: 254px;
+    height: 254px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
+    background: #9BE8D8;
+    display: flex;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    position: relative;
+} 
