@@ -26,8 +26,8 @@ footer{
    text-align: center;
 }
 .card15 {
-    width: 254px;
-    height: 254px;
+    width:  300px;
+    height:  300px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
     background: green;
     display: flex;
@@ -43,10 +43,10 @@ footer{
     align-items: center;
 }
 .card2 {
-    width: 254px;
-    height: 254px;
+    width: 300px;
+    height: 300px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #ED2B2A;
+    background: #ED2B2A ;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -64,6 +64,9 @@ footer{
     color: rgb(51, 51, 51);
     font-size: 0.8em;
     font-weight: 700;
+    padding: 15px;
+    padding-bottom: 40px;
+    text-align: center;
    }
    
    .card2 div {
@@ -74,18 +77,18 @@ footer{
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: #ED2B2A;
+    background-color:  #ED2B2A;
    }
    
    .card2:hover div {
-    transform: translateY(+264px);
+    transform: translateY(+310px);
    }
 
 .card4 {
-    width: 254px;
-    height: 254px;
+    width:  300px;
+    height:  300px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #ED2B2A;
+    background:  #ED2B2A ;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -103,6 +106,9 @@ footer{
     color: rgb(51, 51, 51);
     font-size: 0.8em;
     font-weight: 700;
+    padding: 15px;
+    padding-bottom: 50px;
+    text-align: center;
    }
    
    .card4 div {
@@ -113,18 +119,18 @@ footer{
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: #ED2B2A;
+    background-color:  #ED2B2A;
    }
    
    .card4:hover div {
-    transform: translateY(-264px);
+    transform: translateY(-310px);
    }
 
 .card6 {
-    width: 254px;
-    height: 254px;
+    width:  300px;
+    height:  300px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #ED2B2A;
+    background:  #ED2B2A ;
     display: flex;
     margin: 5px;
     border-radius: 20px;
@@ -134,7 +140,7 @@ footer{
    }
    
    .card6::before {
-    content: 'On 27 October 2020, Spin Master said it will pay $50 million for Rubiks Cube, the iconic game invented nearly 50 years ago  The acquisition was completed on 5 January 2021.[28] At the end of 2020, Spin Master announced executive leadership changes appointing Max Rangel as Global President effective January 2021,';
+    content: 'On 27 October 2020, Spin Master said it will pay $50 million for Rubiks Cube, the iconic game invented nearly 50 years ago  The acquisition was completed on 5 January 2021. At the end of 2020, Spin Master announced executive leadership changes appointing Max Rangel as Global President effective January 2021,';
     letter-spacing: 0.2em;
     position: absolute;
     font-family: Merriweather Sans;
@@ -142,6 +148,9 @@ footer{
     color: rgb(51, 51, 51);
     font-size: 0.8em;
     font-weight: 700;
+    padding: 15px;
+    padding-bottom: 50px;
+    text-align: center;
    }
    
    .card6 div {
@@ -152,24 +161,25 @@ footer{
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: #ED2B2A;
+    background-color:  #ED2B2A;
    }
    
    .card6:hover div {
-    transform: translateY(-265px);
+    transform: translateY(-310px);
    }
 
 .card8 {
-    width: 254px;
-    height: 254px;
+    width:  300px;
+    height:  300px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
-    background: #ED2B2A;
+    background:  #ED2B2A ;
     display: flex;
     margin: 5px;
     border-radius: 20px;
     justify-content: center;
     position: relative;
     transition: all .4s;
+    
    }
    
    .card8::before {
@@ -177,10 +187,13 @@ footer{
     letter-spacing: 0.2em;
     position: absolute;
     font-family: Merriweather Sans;
-    bottom: 8px;
+    text-align: center;
     color: rgb(51, 51, 51);
     font-size: 0.8em;
     font-weight: 700;
+    padding: 15px;
+    padding-top: 50px;
+    text-align: center;
    }
    
    .card8 div {
@@ -191,10 +204,10 @@ footer{
     cursor: pointer;
     z-index: 10;
     transition: all .4s;
-    background-color: #ED2B2A;
+    background-color:  #ED2B2A;
    }
    
    .card8:hover div {
-    transform: translateY(-265px);
+    transform: translateY(-310px);
    }
    
