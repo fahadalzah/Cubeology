@@ -12,7 +12,7 @@ nav{
     background: linear-gradient(90deg, rgba(255,224,195,1) 0%, rgba(255,224,195,1) 30%, rgba(65,209,255,1) 100%);
 }
 .nav-links{
-    display: flex;
+   display: flex;
 }
 .link{
     text-decoration: none;
